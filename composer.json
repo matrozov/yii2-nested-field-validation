@@ -19,7 +19,7 @@
     ],
     "support": {
         "issues": "https://github.com/matrozov/yii2-nested-field-validation/issues",
-        "source": "https://github.com/matrozov/yii2-nested-field-validation",
+        "source": "https://github.com/matrozov/yii2-nested-field-validation"
     },
     "minimum-stability": "dev",
     "require": {
